@@ -35,6 +35,7 @@ Steps to Run the App
 Clone the repository:
 
 git clone https://github.com/ersamshad12/Weather_App.git
+
 cd Weather_App
 
 Install dependencies:
